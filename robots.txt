@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:http://poniutki.com.pl/sitemap.xml

@@ -1,0 +1,439 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #000000;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 14px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+body, td, th {
+	color: #22201C;
+}
+
+h1 {
+	font-size: 15px;
+	position: relative;
+	top: -15px;
+	color: #938357;
+}
+
+h2 {
+	font-size: 36px;
+	color: #FDF3DA;
+}
+h3 {
+	color: #FDF3DA;
+	font-size: 24px;
+}
+
+h4, h5, h6 {
+	color: #472C19;
+}
+p{
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+	
+}
+span{
+	font-weight: bold;
+	
+}
+
+
+a {
+	color: #FDF3DA;
+	text-decoration: underline;
+	font-weight: 900;
+}
+
+img {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #3C2910;
+	text-align: center;
+	}
+
+#blok {
+	height: auto;
+	width: 1000px;
+	text-align: left;
+	background-image:url(../image/tlo.jpg);
+	margin: 0 auto;
+}
+	
+#naglowek {
+	
+}
+#menu {
+	margin-right: 20px;
+	margin-left: 20px;
+	width: 190px;
+	float: left;
+	overflow: hidden;
+
+}
+#text2 {
+	text-align: center;
+	width: 700px;
+	float: left;
+	overflow: hidden;
+	}
+#text3 {
+	text-align: left;
+	width: 700px;
+	float: left;
+	overflow: hidden;
+	}
+#galeria {
+	margin: 15px;
+	background-color: #AD9E76;
+	text-align: center;
+	width: 320px;
+	height: 320px;
+	float: left;
+	overflow: hidden;
+	
+		}
+	
+#zdjecie {	
+	height: auto;
+	width: 352px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+	
+
+#zdjecie1 {
+	margin:auto;
+	padding: auto;
+		}	
+	
+#text {
+	margin-left: 400px;
+	height: auto;
+	text-align: left;
+	}
+#text1 {
+	float: left;
+	margin-left: 0px;
+	height: auto;
+	text-align: left;
+	width: 740px;
+	overflow: hidden;
+	
+	}
+#data {
+	float: left;
+	width: 120px;
+	margin-left: 0px;
+	height: auto;
+	text-align: left;
+	overflow: hidden;
+	}
+
+#tresc {
+	padding-left: 70px;
+	padding-right: 70px;
+	clear: both;
+	}
+#stopka {
+	clear: both;
+	font-size: 10px;
+	height: 95px;
+	background-image: url(../image/stopka.jpg);
+}
+#stopka p {
+	padding-top: 20px;
+	padding-left: 40px;
+}
+#stopka a:link {
+	color: #22201C;
+	font-weight: bold;
+	text-decoration: none;
+}
+#stopka a:visited {
+	color: #EBDDB8;
+	text-decoration: none;
+}
+#stopka a:hover, a:active {
+	color: #9D111A;
+	text-decoration: none;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #9D111A;
+}
+#tytul {
+	text-align: right;
+}
+#rodowod {
+	margin: auto;
+	text-align: center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	text-align: center;
+	font-size: 10px;
+	color: #22201C;
+	font-weight: normal;
+		
+	
+}
+#nowosci1 {
+	clear: both;
+	text-align: center;
+	height: auto;
+	
+}
+#nowosci {
+	clear: both;
+	text-align: left;
+	height: auto;
+	
+}
+#linia {
+	height: 70px;
+	background-image: url(../image/pasek.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	clear: both;
+	text-align: center;
+}
+#linia1 {
+	height: 43px;
+	background-image: url(../image/pasek1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	clear: both;
+	text-align: center;
+}
+
+#linia2 {
+	height: 70px;
+	background-image: url(../image/championAKC.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	clear: both;
+	text-align: center;
+}
+
+
+#linia3 {
+	height: 1px;
+	clear: both;
+	text-align: center;
+}
+	
+#aktualizacja {
+	margin-bottom: 10px;
+	font-size: 10px;
+	text-align: left;
+}
+
+table {
+	text-align: center;
+}
+#powitanie {
+	color: #937131;
+	
+}
+.tytuly {
+	font-weight: bold;
+	color: #FDF3DA;
+	font-size: 20px;
+}
+.zdjecie {
+	margin-right: 20px;
+	float: left;
+	
+}
+
+.tytul {
+	color: #FFF;
+}
+.tytul {
+	font-size: 18px;
+	background-color: #A08F63;
+}
+.margines {
+	word-spacing: 20px;
+}
+#blok #tresc #nowosci #text1 p strong {
+	font-size: 16px;
+	font-weight: bold;
+}
+.zaloba {
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+}
+.championPL {
+	background-image: url(../image/championPolski.png);
+	background-repeat: no-repeat;
+}
+.polishchampion {
+	background-image: url(../image/polishchampion.png);
+	background-repeat: no-repeat;
+}
+.championAKC {
+	background-image: url(../image/championAKC.png);
+	background-repeat: no-repeat;
+}
+.AKCchampion {
+	background-image: url(../image/AKCchampion.png);
+	background-repeat: no-repeat;
+}
+.mlchampionpl {
+	background-image: url(../image/mlchampionpl.png);
+	background-repeat: no-repeat;
+}
+.polishjuniorchampion {
+	background-image: url(../image/polishjuniorchampion.png);
+	background-repeat: no-repeat;
+}
+.lithuaniajuniorchampion {
+	background-image: url(../image/lithuaniajuniorchampion.png);
+	background-repeat: no-repeat;
+}
+.mlchampionlitwy {
+	background-image: url(../image/mlchampionlitwy.png);
+	background-repeat: no-repeat;
+}
+
+.dutchchampion {
+	background-image: url(../image/dutchchampion.png);
+	background-repeat: no-repeat;
+}
+.championholandii {
+	background-image: url(../image/championholandii.png);
+	background-repeat: no-repeat;
+}
+
+.championluxemburga {
+	background-image: url(../image/championLuxemburga.png);
+	background-repeat: no-repeat;
+}
+.luxemburgchampion {
+	background-image: url(../image/LuxemburgChampion.png);
+	background-repeat: no-repeat;
+}
+.grandchampion {
+	background-image: url(../image/grandchampion.png);
+	background-repeat: no-repeat;
+}
+.championofEstonia {
+	background-image: url(../image/championofEstonia.png);
+	background-repeat: no-repeat;
+}
+.championEstonii {
+	background-image: url(../image/championEstonii.png);
+	background-repeat: no-repeat;
+}
+.mlchampionczech {
+	background-image: url(../image/mlchampionczech.png);
+	background-repeat: no-repeat;
+}
+.junirchampionczech {
+	background-image: url(../image/juniorchampionczech.png);
+	background-repeat: no-repeat;
+}
+.championlitwy {
+	background-image: url(../image/championLitwy.png);
+	background-repeat: no-repeat;
+}
+.lithuaniachampion {
+	background-image: url(../image/LithuaniaChampion.png);
+	background-repeat: no-repeat;
+}
+.interchampion {
+	background-image: url(../image/interchampion.png);
+	background-repeat: no-repeat;
+}
+.canadianchampion {
+	background-image: url(../image/canadianchampion.png);
+	background-repeat: no-repeat;
+}
+.championkanady {
+	background-image: url(../image/championkanady.png);
+	background-repeat: no-repeat;
+}
+.multi {
+	background-image: url(../image/multi.png);
+	background-repeat: no-repeat;
+}
+.multieng {
+	background-image: url(../image/multieng.png);
+	background-repeat: no-repeat;
+}
+.ukrainianchampion {
+	background-image: url(../image/ukrainianchampion.png);
+	background-repeat: no-repeat;
+}
+.championukrainy {
+	background-image: url(../image/championukrainy.png);
+	background-repeat: no-repeat;
+}
+.championofczechrepublic {
+	background-image: url(../image/championofczechrepublic.png);
+	background-repeat: no-repeat;
+}
+.championczech {
+	background-image: url(../image/championczech.png);
+	background-repeat: no-repeat;
+}
+
+.championoflatvia {
+	background-image: url(../image/championoflatvia.png);
+	background-repeat: no-repeat;
+}
+.championlotwy {
+	background-image: url(../image/championlotwy.png);
+	background-repeat: no-repeat;
+}
+.championwegier {
+	background-image: url(../image/ChampionWegier.png);
+	background-repeat: no-repeat;
+}
+.championofhungary {
+	background-image: url(../image/chapionofhungary.png);
+	background-repeat: no-repeat;
+}
+.championatyRosji {
+	background-image: url(../image/championatyRosji.png);
+	background-repeat: no-repeat;
+}
+.championofruss {
+	background-image: url(../image/championsofRuss.png);
+	background-repeat: no-repeat;
+}
+
+.multi2 {
+	background-image: url(../image/multi2.png);
+	background-repeat: no-repeat;
+}
+.multi2eng {
+	background-image: url(../image/multi2eng.png);
+	background-repeat: no-repeat;
+}
+
+.multi3 {
+	background-image: url(../image/multi3.png);
+	background-repeat: no-repeat;
+}
+.multi3eng {
+	background-image: url(../image/multi3eng.png);
+	background-repeat: no-repeat;
+}
+
+.noframe {
+	border:none;
+}
+.oblewanietekstemzprawej {
+	float: right;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}

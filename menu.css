@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+/*MENU*/
+#MENU {
+	width: 133px;
+	overflow: hidden;
+	float: left;
+	margin-left: 0px;
+}
+
+/*ZAWARTOSC MENU*/
+#MENU .ZAWARTOSC {
+	text-align: right;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	font-size: 16px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #000000;
+	font-style: italic;
+}
+#MENU .ZAWARTOSC a:link {
+	color: #FCF6EF;
+	text-decoration: none;
+	font-weight: bold;
+	}
+#MENU .ZAWARTOSC a:visited {
+	color: #E9D5BD;
+	text-decoration: none;
+	font-weight: bold;
+}
+#MENU .ZAWARTOSC a:hover {
+	color: #E4DAD1;
+	text-decoration: none;
+	font-weight: normal;
+	
+}
+#MENU .ZAWARTOSC ul {
+	display: block;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#MENU .ZAWARTOSC ul li {
+	display: block;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 10px;
+}
+/*/ZAWARTOSC MENU*/
+/*/MENU*/
+
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://poniutki.com.pl/</loc>
+  <lastmod>2018-03-15T12:03:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/o_nas.html</loc>
+  <lastmod>2018-03-07T20:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/nasze_psy.html</loc>
+  <lastmod>2017-07-06T17:22:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/szczenieta.html</loc>
+  <lastmod>2018-02-17T12:34:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/mioty.html</loc>
+  <lastmod>2017-07-06T17:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/galeria.html</loc>
+  <lastmod>2017-07-06T17:20:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/kontakt.html</loc>
+  <lastmod>2018-02-17T12:38:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/aqua.html</loc>
+  <lastmod>2017-07-06T17:18:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/astra.html</loc>
+  <lastmod>2017-07-06T17:19:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/frezja.html</loc>
+  <lastmod>2017-07-06T17:20:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://poniutki.com.pl/canka.html</loc>
+  <lastmod>2017-07-06T17:20:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

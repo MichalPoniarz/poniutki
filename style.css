@@ -1,0 +1,37 @@
+body{font-size:16px;font-family:Georgia, "Times New Roman", Times, serif;font-style:italic;background-color:#FBF0E3;background-image:url(images/tlo.jpg);background-repeat:repeat-x;text-align:center;margin:0;padding:0;}
+a img{border:1;}
+h1{font-size:20px;color:#AA7651;text-transform: uppercase;}
+h2{font-size:16px;color:#AA7651;}
+h3{font-family:Georgia, "Times New Roman", Times, serif;font-style:italic;}
+#BODY{text-align:left;margin:0 auto;width:1000px;}
+#LOGO{background-image:url(images/naglowek.png);width:1000px;margin:0;height:410px;}
+#MENU{padding-top:40px;height:80px;font-size:20px;text-align:center;font-family:Georgia, "Times New Roman", Times, serif;font-style:italic;}
+#MENU a:link{color:#FBF0E3;text-decoration:none;font-weight:bold;font-size:20px;text-shadow:3px 3px 5px black;}
+#MENU a:visited{color:#FBF0E3;text-decoration:none;font-weight:bold;font-style:normal;}
+#MENU a:hover{color:#FBF0E3;text-decoration:none;font-weight:bold;text-shadow:3px 3px 5px blue;}
+#MENU ul{display:block;list-style-type:none;margin:0;padding:0;text-align:center;}
+#MENU ul li{white-space:nowrap;display:inline;list-style-type:none;margin:0 12px;padding:0;}
+#TYTUL{font-size:40px;font-family:Georgia, "Times New Roman", Times, serif;color:#AA7651;font-weight:bold;padding:0;text-align:right;height:70px;font-style:italic;}
+#LINKI{text-align:center;margin:0 20px;font-size:16px;font-family:Georgia, "Times New Roman", Times, serif;color:#000000;font-style:italic;}
+#LINKI .ZAWARTOSC a:link{color:#FCF6EF;text-decoration:none;font-weight:bold;}
+#LINKI .ZAWARTOSC a:visited{color:#E9D5BD;text-decoration:none;font-weight:bold;}
+#LINKI .ZAWARTOSC a:hover{color:#E4DAD1;text-decoration:none;font-weight:normal;}
+#LINKI .ZAWARTOSC ul{display:block;list-style-type:none;margin:0;padding:0;}
+#LINKI .ZAWARTOSC ul li{display:block;list-style-type:none;margin:0;padding:0;margin-bottom:10px;}
+#TRESC{width:1000px;overflow:hidden;float:left;}
+#TRESC a:link, #TRESC a:visited{color:#4F3D2F;text-decoration:underline;font-weight:bold;}
+#TRESC a:hover{color:#4F3D2F;text-decoration:none;}
+#TRESC .ZAWARTOSC{font-family:Verdana, Geneva, sans-serif;color:#000;}
+#TRESC .MODUL1{padding-top:50px;padding-right:70px;padding-bottom:50px;padding-left:70px;}
+#TRESC .MODUL2{padding-top:0;padding-right:20px;padding-bottom:30px;padding-left:20px;text-align:center;margin-left:5px;margin-right:5px;}
+#TRESC .GALERIA img{border:double;}
+#TRESC .MODULHOME{height:420px;background-color:#666;color:#FFF;}
+#STOPKA{clear:both;background-image:url(images/stopka.jpg);height:290px;color:#4F3D2F;font-weight:bold;}
+#STOPKA .MENU{padding-top:10px;height:140px;font-size:20px;text-align:center;font-family:Georgia, "Times New Roman", Times, serif;font-style:italic;}
+#STOPKA .MENU a:link{color:#DFA671;text-decoration:none;font-weight:bold;font-size:20px;}
+#STOPKA .MENU a:visited{color:#DFA671;text-decoration:none;font-weight:bold;font-style:normal;}
+#STOPKA .MENU a:hover{color:#BE753F;text-decoration:none;font-weight:bold;}
+#STOPKA .MENU ul{display:block;list-style-type:none;margin:0;padding:0;text-align:center;}
+#STOPKA .MENU ul li{white-space:nowrap;display:inline;list-style-type:none;margin:0 12px;padding:0;}
+#STOPKA a:link, #STOPKA a:visited{color:#4F3D2F;text-decoration:underline;}
+#STOPKA a:hover{color:#4F3D2F;text-decoration:none;}
